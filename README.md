@@ -1,6 +1,6 @@
 # PYxD
 
-PYxD is a python script that downloads all comics on the xkcd archive. 
+PYxD is a python script that downloads all comics on the xkcd archive. Also, PYxD is just a word with no phonetic pronunciation, so don't even try sis.
 
 ### Installing
 
