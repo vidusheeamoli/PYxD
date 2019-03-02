@@ -1,5 +1,9 @@
 # PYxD
 
+![]
+(https://github.com/vidusheeamoli/PYxD/blob/master/software_development.png)
+
+
 PYxD is a python script that downloads all comics on the xkcd archive. 
 
 ### Installing
@@ -11,10 +15,7 @@ $ pip install -r requirements.txt
 ### How to run it
 
 ```
-$ python scraper.py
+$ python xkcd.py
 ```
 
-All the comics will be downloaded and saved in the output directory.
-
-![]
-()
+All the comics will be downloaded and saved in the output directory. Enjoy! 
