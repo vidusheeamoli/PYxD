@@ -1,7 +1,6 @@
 # PYxD
 
-![]
-(https://github.com/vidusheeamoli/PYxD/blob/master/software_development.png)
+![](software_development.png)
 
 
 PYxD is a python script that downloads all comics on the xkcd archive. 
